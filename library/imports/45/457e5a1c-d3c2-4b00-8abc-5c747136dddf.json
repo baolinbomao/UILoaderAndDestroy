@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loginbackBtn",
+    "texture": "ecd1ac5d-6328-40cd-bcf3-9df6322d77fe",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      252,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      252,
+      85
+    ]
+  }
+}

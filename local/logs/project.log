@@ -1,0 +1,141 @@
+2018-12-13T06:49:13.127Z - normal: Load ~/.CocosCreator/settings.json
+2018-12-13T06:49:13.130Z - normal: checking language setting...
+2018-12-13T06:49:13.131Z - normal: Language: zh
+2018-12-13T06:49:13.840Z - success: protocol editor-framework registered
+2018-12-13T06:49:13.841Z - success: protocol app registered
+2018-12-13T06:49:13.841Z - success: protocol theme registered
+2018-12-13T06:49:13.841Z - success: protocol packages registered
+2018-12-13T06:49:13.841Z - success: protocol unpack registerred
+2018-12-13T06:49:13.841Z - success: protocol disable-commonjs registerred
+2018-12-13T06:49:13.975Z - normal: connected!
+2018-12-13T06:49:13.977Z - normal: Check project /Users/mac/Downloads/UILoader-master
+2018-12-13T06:49:13.980Z - normal: Initializing Cocos2d
+2018-12-13T06:49:14.216Z - normal: Initializing Asset Database
+2018-12-13T06:49:14.246Z - success: protocol uuid registerred
+2018-12-13T06:49:14.246Z - success: protocol db registerred
+2018-12-13T06:49:14.246Z - success: protocol thumbnail registerred
+2018-12-13T06:49:14.246Z - normal: Loading editor/builtin packages
+2018-12-13T06:49:14.266Z - success: anysdk loaded
+2018-12-13T06:49:14.385Z - success: assets loaded
+2018-12-13T06:49:14.389Z - success: builder loaded
+2018-12-13T06:49:14.390Z - success: cocos-analytics loaded
+2018-12-13T06:49:14.395Z - success: console loaded
+2018-12-13T06:49:14.429Z - success: fb-instant-games loaded
+2018-12-13T06:49:14.433Z - success: hierarchy loaded
+2018-12-13T06:49:14.437Z - success: inspector loaded
+2018-12-13T06:49:14.439Z - success: keystore loaded
+2018-12-13T06:49:14.442Z - success: node-library loaded
+2018-12-13T06:49:14.445Z - success: package-asset loaded
+2018-12-13T06:49:14.446Z - success: preferences loaded
+2018-12-13T06:49:14.449Z - success: project-exporter loaded
+2018-12-13T06:49:14.465Z - success: project-importer loaded
+2018-12-13T06:49:14.468Z - success: project-settings loaded
+2018-12-13T06:49:14.473Z - success: ui-kit loaded
+2018-12-13T06:49:14.478Z - success: ui-grid loaded
+2018-12-13T06:49:14.482Z - success: scene loaded
+2018-12-13T06:49:14.484Z - success: sprite-editor loaded
+2018-12-13T06:49:14.488Z - success: store loaded
+2018-12-13T06:49:14.493Z - success: timeline loaded
+2018-12-13T06:49:14.493Z - normal: Loading builtin packages
+2018-12-13T06:49:14.498Z - success: asset-db-debugger loaded
+2018-12-13T06:49:14.499Z - success: color-picker loaded
+2018-12-13T06:49:14.503Z - success: package-manager loaded
+2018-12-13T06:49:14.504Z - success: qqplay-adapter loaded
+2018-12-13T06:49:14.511Z - success: sdkbox loaded
+2018-12-13T06:49:14.516Z - success: tester loaded
+2018-12-13T06:49:14.520Z - success: ui-kit-preview-extra loaded
+2018-12-13T06:49:14.524Z - success: ui-kit-preview loaded
+2018-12-13T06:49:14.527Z - success: ui-tree loaded
+2018-12-13T06:49:14.528Z - success: weapp-adapter loaded
+2018-12-13T06:49:15.549Z - normal: Initializing project /Users/mac/Downloads/UILoader-master
+2018-12-13T06:49:15.552Z - normal: Loading packages
+2018-12-13T06:49:15.557Z - normal: Watching packages
+2018-12-13T06:49:15.670Z - normal: Run Application
+2018-12-13T06:49:17.139Z - success: preview server running at http://localhost:7457
+2018-12-13T06:49:21.755Z - normal: 1.9.3
+2018-12-13T08:29:32.561Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 817.00
+2018-12-13T08:29:32.566Z - normal: Simulator: FRAME SCALE = 1.00
+2018-12-13T08:29:32.579Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-12-13T08:29:32.580Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-12-13T08:29:32.581Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2018-12-13T08:29:32.650Z - normal: Simulator: 
+2018-12-13T08:29:32.661Z - normal: Simulator: {
+2018-12-13T08:29:32.662Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-12-13T08:29:32.662Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-12-13T08:29:32.662Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-12-13T08:29:32.662Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2018-12-13T08:29:32.677Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-12-13T08:29:32.678Z - normal: Simulator: 	gl.renderer: Intel Iris Pro OpenGL Engine
+2018-12-13T08:29:32.678Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-12-13T08:29:32.678Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-12-13T08:29:32.678Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-12-13T08:29:32.679Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-12-13T08:29:32.679Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-12-13T08:29:32.679Z - normal: Simulator: 	gl.max_texture_units: 16
+2018-12-13T08:29:32.679Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-12-13T08:29:32.679Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-12-13T08:29:32.679Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-12-13T08:29:32.680Z - normal: Simulator: 	gl.version: 2.1 INTEL-12.0.34
+2018-12-13T08:29:32.680Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-12-13T08:29:32.680Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-12-13T08:29:32.680Z - normal: Simulator: }
+2018-12-13T08:29:32.680Z - normal: Simulator: 
+2018-12-13T08:29:32.681Z - normal: Simulator: 
+2018-12-13T08:29:32.681Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-12-13T08:29:32.716Z - normal: Simulator: Project Config:
+2018-12-13T08:29:32.716Z - normal: Simulator:     project dir: /Applications/CocosCreator1.9.3.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2018-12-13T08:29:32.716Z - normal: Simulator:     writable path: $(PROJDIR)/
+2018-12-13T08:29:32.717Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2018-12-13T08:29:32.717Z - normal: Simulator:     frame size: 960 x 640
+2018-12-13T08:29:32.717Z - normal: Simulator:     frame scale: 1.00
+2018-12-13T08:29:32.718Z - normal: Simulator:     show console: NO
+2018-12-13T08:29:32.718Z - normal: Simulator:     write debug log: NO ()
+2018-12-13T08:29:32.718Z - normal: Simulator:     listen: 
+2018-12-13T08:29:32.718Z - normal: Simulator:     debugger: none
+2018-12-13T08:29:32.719Z - normal: Simulator:     add searching path:
+2018-12-13T08:29:32.719Z - normal: Simulator: ------------------------------------------------
+2018-12-13T08:29:32.719Z - normal: Simulator: LOAD Js FILE: main.js
+2018-12-13T08:29:32.719Z - normal: Simulator: ------------------------------------------------
+2018-12-13T08:29:32.719Z - normal: Simulator: Initializing JavaScriptCore 
+2018-12-13T08:29:32.816Z - normal: Simulator: JS: Cocos2d-x-lite v1.8.2
+2018-12-13T08:29:33.024Z - normal: Simulator: iShow!
+2018-12-13T08:29:33.218Z - normal: Simulator: JS: InitScene: 3.5569999999999595ms
+2018-12-13T08:29:33.221Z - normal: Simulator: JS: AutoRelease: 0.17400000000003502ms
+2018-12-13T08:29:33.222Z - normal: Simulator: JS: Destroy: 0.09499999999997044ms
+2018-12-13T08:29:33.223Z - normal: Simulator: JS: AttachPersist: 0.006000000000028649ms
+2018-12-13T08:29:33.329Z - normal: Simulator: I/AudioEngine-inl.mm (359): OpenAL was initialized successfully!
+2018-12-13T08:29:33.329Z - normal: Simulator: JS: Activate: 113.34799999999996ms
+2018-12-13T08:29:44.852Z - normal: Simulator: E/AudioDecoder (64): (status != noErr) failed, message: ExtAudioFileOpenURL FAILED, Error = 0
+2018-12-13T08:29:44.853Z - normal: Simulator: D/AudioEngine-inl.mm (458): AudioEngineImpl::_play2d, cache was destroyed or not ready!
+2018-12-13T08:29:44.853Z - normal: Simulator: ERROR: TypeError: undefined is not an object (evaluating 'cc.loader._cache[audioPath].url'), location: assets/Scripts/UILoader.js:541:58
+2018-12-13T08:29:44.853Z - normal: Simulator: STACK:
+2018-12-13T08:29:44.853Z - normal: Simulator: playMusic@assets/Scripts/UILoader.js:541:58
+2018-12-13T08:29:44.853Z - normal: Simulator: assets/Scripts/GameScene.js:23:31
+2018-12-13T08:29:44.853Z - normal: Simulator: Invoking schedule callback failed, where: cc.Scheduler.schedule
+2018-12-13T08:29:47.395Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2018-12-13T08:29:47.395Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 116
+2018-12-13T08:29:47.399Z - normal: Simulator: GC end ..., (Native -> JS map) count: 91
+2018-12-13T08:29:47.400Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 91
+2018-12-13T08:29:47.403Z - normal: Simulator: GC end ..., (Native -> JS map) count: 91
+2018-12-13T08:29:47.403Z - normal: Simulator: GC begin ..., (Native -> JS map) count: 91
+2018-12-13T08:29:47.413Z - normal: Simulator: GC end ..., (Native -> JS map) count: 91
+2018-12-13T08:29:47.415Z - normal: Simulator: Starting to cleanup dragonbones object, count: 0
+2018-12-13T08:29:47.415Z - normal: Simulator: After first cleanup, dragonbones object remained count: 0
+2018-12-13T08:29:47.415Z - normal: Simulator: After second cleanup, dragonbones object remained count: 0
+2018-12-13T08:29:47.415Z - normal: Simulator: ScriptEngine::cleanup end ...
+2018-12-13T08:35:32.507Z - failed: [db-task][sync-changes] Failed to import asset /Users/mac/Downloads/UILoader-master/assets/Scripts/UILoader.js, message: Compile error: SyntaxError: /Users/mac/Downloads/UILoader-master/assets/Scripts/UILoader.js: Unexpected token (598:0)
+  596 | 
+  597 | module.exports = UILoader;
+> 598 | 
+      | ^
+    at Parser.pp$5.raise (/Applications/CocosCreator1.9.3.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
+    at Parser.pp.unexpected (/Applications/CocosCreator1.9.3.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (/Applications/CocosCreator1.9.3.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator1.9.3.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator1.9.3.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
+    at Parser.pp$3.parseExprOps (/Applications/CocosCreator1.9.3.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator1.9.3.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator1.9.3.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3344:19)
+    at Parser.pp$3.parseExpression (/Applications/CocosCreator1.9.3.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3306:19)
+    at Parser.pp$1.parseStatement (/Applications/CocosCreator1.9.3.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1906:19)
+2018-12-13T08:56:26.985Z - info: shutdown preview server

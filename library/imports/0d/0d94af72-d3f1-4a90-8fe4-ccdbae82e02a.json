@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HotProgress2",
+    "texture": "774ddd28-d948-4375-928d-64eef91533be",
+    "atlas": "",
+    "rect": [
+      3,
+      5,
+      151,
+      152
+    ],
+    "offset": [
+      0,
+      -2.5
+    ],
+    "originalSize": [
+      157,
+      157
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DialBrightBack",
+    "texture": "90aedce5-c661-4a30-b321-80e39a07c762",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      578,
+      579
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      578,
+      579
+    ]
+  }
+}
